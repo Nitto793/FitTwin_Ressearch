@@ -1,0 +1,29 @@
+{
+  "start_date": "2027-01-04",
+  "forecast": [
+    {"date": "2027-01-09", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 60.0, "predicted_gain_kg_from_initial": 0.0, "predicted_change_kg_from_previous_session": 0.0},
+    {"date": "2027-01-16", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 60.63, "predicted_gain_kg_from_initial": 0.63, "predicted_change_kg_from_previous_session": 0.63},
+    {"date": "2027-01-23", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 61.24, "predicted_gain_kg_from_initial": 1.24, "predicted_change_kg_from_previous_session": 0.61},
+    {"date": "2027-01-30", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 61.83, "predicted_gain_kg_from_initial": 1.83, "predicted_change_kg_from_previous_session": 0.59},
+    {"date": "2027-02-06", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 62.4, "predicted_gain_kg_from_initial": 2.4, "predicted_change_kg_from_previous_session": 0.57},
+    {"date": "2027-02-13", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 62.94, "predicted_gain_kg_from_initial": 2.94, "predicted_change_kg_from_previous_session": 0.54},
+    {"date": "2027-02-20", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 63.47, "predicted_gain_kg_from_initial": 3.47, "predicted_change_kg_from_previous_session": 0.53},
+    {"date": "2027-02-27", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 63.98, "predicted_gain_kg_from_initial": 3.98, "predicted_change_kg_from_previous_session": 0.51},
+    {"date": "2027-03-06", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 64.47, "predicted_gain_kg_from_initial": 4.47, "predicted_change_kg_from_previous_session": 0.49},
+    {"date": "2027-03-13", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 64.95, "predicted_gain_kg_from_initial": 4.95, "predicted_change_kg_from_previous_session": 0.48},
+    {"date": "2027-03-20", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 65.41, "predicted_gain_kg_from_initial": 5.41, "predicted_change_kg_from_previous_session": 0.46},
+    {"date": "2027-03-27", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 65.85, "predicted_gain_kg_from_initial": 5.85, "predicted_change_kg_from_previous_session": 0.44},
+    {"date": "2027-04-03", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 66.27, "predicted_gain_kg_from_initial": 6.27, "predicted_change_kg_from_previous_session": 0.42},
+    {"date": "2027-04-10", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 66.69, "predicted_gain_kg_from_initial": 6.69, "predicted_change_kg_from_previous_session": 0.42},
+    {"date": "2027-04-17", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 67.08, "predicted_gain_kg_from_initial": 7.08, "predicted_change_kg_from_previous_session": 0.39},
+    {"date": "2027-04-24", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 67.47, "predicted_gain_kg_from_initial": 7.47, "predicted_change_kg_from_previous_session": 0.39},
+    {"date": "2027-05-01", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 67.84, "predicted_gain_kg_from_initial": 7.84, "predicted_change_kg_from_previous_session": 0.37},
+    {"date": "2027-05-08", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 68.19, "predicted_gain_kg_from_initial": 8.19, "predicted_change_kg_from_previous_session": 0.35},
+    {"date": "2027-05-15", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 68.54, "predicted_gain_kg_from_initial": 8.54, "predicted_change_kg_from_previous_session": 0.35},
+    {"date": "2027-05-22", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 68.87, "predicted_gain_kg_from_initial": 8.87, "predicted_change_kg_from_previous_session": 0.33},
+    {"date": "2027-05-29", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 69.19, "predicted_gain_kg_from_initial": 9.19, "predicted_change_kg_from_previous_session": 0.32},
+    {"date": "2027-06-05", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 69.5, "predicted_gain_kg_from_initial": 9.5, "predicted_change_kg_from_previous_session": 0.31},
+    {"date": "2027-06-12", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 69.8, "predicted_gain_kg_from_initial": 9.8, "predicted_change_kg_from_previous_session": 0.3},
+    {"date": "2027-06-19", "exercise": "deadlift", "reps": 5, "predicted_load_kg": 70.08, "predicted_gain_kg_from_initial": 10.08, "predicted_change_kg_from_previous_session": 0.28}
+  ]
+}

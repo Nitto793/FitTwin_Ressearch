@@ -1,0 +1,32 @@
+{
+  "start_date": "2027-01-04",
+  "starting_strength": {
+    "deadlift": {"weight_kg": 60.0, "reps": 5}
+  },
+  "schedule": [
+    {"date": "2027-01-09", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-01-16", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-01-23", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-01-30", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-02-06", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-02-13", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-02-20", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-02-27", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-03-06", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-03-13", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-03-20", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-03-27", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-04-03", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-04-10", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-04-17", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-04-24", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-05-01", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-05-08", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-05-15", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-05-22", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-05-29", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-06-05", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-06-12", "exercise": "deadlift", "reps": 5},
+    {"date": "2027-06-19", "exercise": "deadlift", "reps": 5}
+  ]
+}
